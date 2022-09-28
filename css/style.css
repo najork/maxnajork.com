@@ -65,3 +65,20 @@ a:hover {
 .nav-menu a:hover {
   color: #3fbd85;
 }
+
+.nav-blog a {
+  border-bottom: none;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition:    all .2s ease-in-out;
+  -ms-transition:     all .2s ease-in-out;
+  -o-transition:      all .2s ease-in-out;
+  transition:         all .2s ease-in-out;
+}
+
+.nav-blog a:hover {
+  color: #3fbd85;
+}
+
+.nav-blog p {
+  text-align: left;
+}
