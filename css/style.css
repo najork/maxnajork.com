@@ -78,3 +78,7 @@ a:hover {
 .nav-blog a:hover {
   color: #3fbd85;
 }
+
+.nav-blog p {
+  text-align: left;
+}
